@@ -21,6 +21,6 @@ test.describe("LOGIN-RELATED TESTS", () => {
 
   test("a user with an existing credentials can login", async ({ page }) => {
     await login(page, "fujitahibaraki.gmail.com", "bengD2bD3zZSwnW!123", true);
-    await expect(page.getByText("Activate Your Membership")).toBeVisible();
+    await expect(page.getByText("Welcome back to The LifeDAO")).toBeVisible();
   });
 });
