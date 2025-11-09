@@ -34,18 +34,19 @@ Actual Result:
 
 #### Overlapping Layout
 
-Steps:
+##### Steps:
 
 - Navigate to the Landing Page.
 - With the mouse button, scroll down until you hit the end of the page.
 
-Expected Result:
+##### Expected Result:
 
 - The transparent header placed on the header should not overlap with any UI images.
 
-Actual Result:
+##### Actual Result:
 
 - An overlap is visible (see screenshot).
 
 `![Overlap](/images/overlapping_layout.jpg)`
+
 
