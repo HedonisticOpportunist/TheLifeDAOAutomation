@@ -12,7 +12,7 @@ The tests only run in Chrome, and the `fullyParallel` option is set to `false`. 
 
 ## Bugs
 
-### Entering Invalid Credentials into the Login Forms Does Not Cause An Error Message to Show Up:
+#### Entering Invalid Credentials into the Login Forms Does Not Cause An Error Message to Show Up:
 
 Steps:
 
@@ -32,7 +32,7 @@ Actual Result:
 
 `![Actual Result](/images/verify_email_page.png)`
 
-### Overlapping Layout
+#### Overlapping Layout
 
 Steps:
 
@@ -48,3 +48,4 @@ Actual Result:
 - An overlap is visible (see screenshot).
 
 `![Overlap](/images/overlapping_layout.jpg)`
+
