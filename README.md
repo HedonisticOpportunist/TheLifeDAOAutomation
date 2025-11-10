@@ -4,6 +4,8 @@ Run the tests using the following command to see the Playwright GUI:
 
 `npx playwright test --ui`
 
+The above is the preferred method, since the tests are fickle in the other mode. 
+
 Otherwise, run the command:
 
 `npx playwright test`
