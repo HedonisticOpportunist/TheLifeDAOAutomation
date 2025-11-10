@@ -19,7 +19,7 @@ Steps:
 - Navigate to the Login Page.
 - Enter a valid email, such as 'test@email.com', and a password, such as 'password123', into the relevant input fields. What is important is that neither of these fields should be matched to an existing user.
 - Click on the 'Log in' button.
-<img width="1049" height="630" alt="image" src="https://github.com/user-attachments/assets/220dd677-5b29-491b-841b-b3274a35b735" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/220dd677-5b29-491b-841b-b3274a35b735" />
 
 
 Expected Result:
@@ -30,7 +30,8 @@ Actual Result:
 
 - The screen informs the user that they should validate their email (see screenshot).
 
-`![Actual Result](/images/verify_email_page.png)`
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/42085407-ace8-4fb9-be80-d4d9c2e5d556" />
+
 
 #### Overlapping Layout
 
@@ -48,6 +49,7 @@ Actual Result:
 - An overlap is visible (see screenshot).
 
 `![Overlap](/images/overlapping_layout.jpg)`
+
 
 
 
