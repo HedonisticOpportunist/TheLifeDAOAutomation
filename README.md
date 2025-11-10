@@ -48,9 +48,7 @@ Actual Result:
 
 - An overlap is visible (see screenshot).
 
-`![Overlap](/images/overlapping_layout.jpg)`
-
-
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/831a273e-2675-4a24-a012-7657e44d3036" />
 
 
 
