@@ -19,7 +19,8 @@ Steps:
 - Navigate to the Login Page.
 - Enter a valid email, such as 'test@email.com', and a password, such as 'password123', into the relevant input fields. What is important is that neither of these fields should be matched to an existing user.
 - Click on the 'Log in' button.
-`![Steps](/[images/invalid_input.jpg](https://github.com/HedonisticOpportunist/TheLifeDAOAutomation/blob/main/images/invalid_input.jpg))`
+<img width="1049" height="630" alt="image" src="https://github.com/user-attachments/assets/220dd677-5b29-491b-841b-b3274a35b735" />
+
 
 Expected Result:
 
@@ -47,6 +48,7 @@ Actual Result:
 - An overlap is visible (see screenshot).
 
 `![Overlap](/images/overlapping_layout.jpg)`
+
 
 
 
