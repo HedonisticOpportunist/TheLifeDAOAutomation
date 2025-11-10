@@ -14,7 +14,7 @@ The tests only run in Chrome, and the `fullyParallel` option is set to `false`. 
 
 #### Entering Invalid Credentials into the Login Forms Does Not Cause An Error Message to Show Up:
 
-Steps:
+##### Steps:
 
 - Navigate to the Login Page.
 - Enter a valid email, such as 'test@email.com', and a password, such as 'password123', into the relevant input fields. What is important is that neither of these fields should be matched to an existing user.
@@ -22,11 +22,11 @@ Steps:
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/220dd677-5b29-491b-841b-b3274a35b735" />
 
 
-Expected Result:
+##### Expected Result:
 
 - An error message should appear, alerting the user that they do not have an account or similar.
 
-Actual Result:
+##### Actual Result:
 
 - The screen informs the user that they should validate their email (see screenshot).
 
@@ -49,6 +49,7 @@ Actual Result:
 - An overlap is visible (see screenshot).
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/831a273e-2675-4a24-a012-7657e44d3036" />
+
 
 
 
